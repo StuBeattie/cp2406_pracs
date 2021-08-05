@@ -29,5 +29,5 @@ public class ch2p3 {
 
         System.out.println("Hello " + username);
 
-    } // end main()
-} // end class
+    }
+}

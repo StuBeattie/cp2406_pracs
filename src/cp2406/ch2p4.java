@@ -36,7 +36,8 @@ public class ch2p4 {
         System.out.println("Inputted: " + numPennies);
 
         int sum = 25 * numQuarters + 10 * numDimes + 5 * numNickels + numPennies;
-        System.out.println("sum $" + sum/100.0);
+        System.out.println("Hello big cents " + sum);
+        System.out.println("Hello big dollars $" + sum/100.0);
 
     }
 }
